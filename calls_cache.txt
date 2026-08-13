@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Aliyu Maikaji",
+    "phone_number": "07037875607",
+    "type": "MISSED",
+    "date": "2026-08-01 16:20:31",
+    "duration": "00:00",
+    "sim_id": "1"
+  },
+  {
+    "name": "UNKNOWN_CALLER",
+    "phone_number": "09072302459",
+    "type": "MISSED",
+    "date": "2026-08-01 23:22:14",
+    "duration": "00:00",
+    "sim_id": "1"
+  },
+  {
+    "name": "UNKNOWN_CALLER",
+    "phone_number": "09072302459",
+    "type": "MISSED",
+    "date": "2026-08-01 23:23:51",
+    "duration": "00:00",
+    "sim_id": "1"
+  },
+  {
+    "name": "Malam Isa Hasbunalla Mashaallah",
+    "phone_number": "+2348138039397",
+    "type": "MISSED",
+    "date": "2026-08-03 17:20:19",
+    "duration": "00:00",
+    "sim_id": "1"
+  },
+  {
+    "name": "UNKNOWN_CALLER",
+    "phone_number": "+2347019453183",
+    "type": "MISSED",
+    "date": "2026-08-03 23:52:47",
+    "duration": "00:00",
+    "sim_id": "1"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "threadid": 1,
+    "type": "inbox",
+    "read": false,
+    "address": "Airtel",
+    "number": "Airtel",
+    "received": "2026-08-08 02:49:56",
+    "body": "Welcome to United Kingdom!\n\nEnjoy your travel with Regular Roaming Rates: Local Call @ 250 Call Back Home @ 250 SMS @ 250 Data @ 30/Mb  \n\nReceive call @ standard network rate. For support, contact +2348021500300 or customercare@ng.airtel.com Enjoy your travels with Airtel Roam-The-World.",
+    "_id": 276
+  },
+  {
+    "threadid": 1,
+    "type": "inbox",
+    "read": false,
+    "address": "Airtel",
+    "number": "Airtel",
+    "received": "2026-08-08 06:08:21",
+    "body": "Dear Customer, your data usage on 9076666667 for 2026-08-07 was 8.9 MB. To stop receiving this notification, dial *312*101# to opt out.",
+    "_id": 277
+  },
+  {
+    "threadid": 5,
+    "type": "inbox",
+    "read": false,
+    "address": "791",
+    "number": "791",
+    "received": "2026-08-08 14:58:50",
+    "body": "Make the Days Count is your weekend reminder.  Don't waste the good ones.  Reply 1 or Dial *790*11# for 7 days.",
+    "_id": 278
+  },
+  {
+    "threadid": 1,
+    "type": "inbox",
+    "read": false,
+    "address": "Airtel",
+    "number": "Airtel",
+    "received": "2026-08-12 22:54:06",
+    "body": "Welcome to Egypt!\n\nEnjoy your travel with Regular Roaming Rates: Local Call @ 750 Call Back Home @ 750 SMS @ 250 Data @ 150/Mb  \n\nReceive call @ standard network rate. For support, contact +2348021500300 or customercare@ng.airtel.com Enjoy your travels with Airtel Roam-The-World.",
+    "_id": 279
+  },
+  {
+    "threadid": 6,
+    "type": "inbox",
+    "read": false,
+    "address": "Roaming",
+    "number": "Roaming",
+    "received": "2026-08-12 22:54:07",
+    "body": "Welcome to Egypt. Roam like home with up to 60% drop in rates on your Airtel line. Do enjoy your stay in Egypt with Airtel Roaming!",
+    "_id": 280
+  }
+]
