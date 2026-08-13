@@ -1,3 +1,3 @@
-nano ~/.termux/termux.properties
-extra-keys = [['ESC','/','-','HOME','UP','END','PGUP'],['CTRL','ALT','TAB','LEFT','DOWN','RIGHT','PGDN']]
+./push.sh
+python3 bot_listener.py
 
